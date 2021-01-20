@@ -1,5 +1,6 @@
 # mymind Theme for Alfred Powerpack
 An Alfred theme based on the mymind aesthetic 
+
 [**Download from latest release**](https://github.com/aleksbatista/alfred-theme-mymind/releases/latest)
 
 ## Installation
