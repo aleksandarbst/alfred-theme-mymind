@@ -20,6 +20,6 @@ Afterwards unzip the downloaded file and double-click the `.alfredappearance` to
 
 ## About
 
-Content unaffiliated with mymind.
+Content unaffiliated with mymind
 
-<a href="LINKHERE">Alfred Forum link</a>.
+<a href="LINKHERE">Post on Alfred Forums</a>
