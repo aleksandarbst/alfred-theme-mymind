@@ -22,4 +22,4 @@ Afterwards unzip the downloaded file and double-click the `.alfredappearance` to
 
 Content unaffiliated with mymind
 
-<a href="LINKHERE">Post on Alfred Forums</a>
+<a href="https://www.alfredforum.com/topic/16527-mymind-inspired-theme/">Post on Alfred Forums</a>
